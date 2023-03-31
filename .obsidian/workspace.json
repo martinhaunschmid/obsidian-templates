@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "3272417fc4c36acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "832e5c75e11e301d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b042f8f230f54690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/host.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eab9dadeaa3630a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/finding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f31addc6dece8a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/finding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b458e72cb40bcad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/endpoint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "215f8a05d28bd001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/functionality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "453f39e986fae112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "986de3135946b770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp-example-host.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b62e601203f63931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp-example-applikation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5079042df818d02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp-example-endpoint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac32bbd545f38b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp-finding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f944d0c3e4b2834",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "213b2c2a31a9ec43",
+    "type": "split",
+    "children": [
+      {
+        "id": "306b3bceea4c2755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5c8728edef72b52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6ea554098a749c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "host",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ededc3428ecc68f5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8332bb8b33ad137f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27945d695b2a947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e6ff98e345c6fdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4da1100862aa1f0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7947e0eee8beb399",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09c812b5ec5e3cfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5c8728edef72b52",
+  "lastOpenFiles": [
+    "canvas",
+    "tmp-finding.md",
+    "tmp-example-host.md",
+    "tmp-example-functionality.md",
+    "tmp-example-endpoint.md",
+    "tmp-example-applikation.md",
+    "README.md",
+    "templates/finding.md",
+    "templates/host.md",
+    "templates/functionality.md",
+    "templates/service.md",
+    "templates/endpoint.md",
+    "example host.md",
+    "nodejs.md",
+    "templates"
+  ]
+}
