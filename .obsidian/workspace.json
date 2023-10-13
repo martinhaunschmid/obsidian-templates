@@ -4,139 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "832e5c75e11e301d",
+        "id": "c69b37a7bbe5d2ee",
         "type": "tabs",
         "children": [
           {
-            "id": "b042f8f230f54690",
+            "id": "90f8717c55616e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/host.md",
+                "file": "templates/cure53-finding.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "eab9dadeaa3630a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/finding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f31addc6dece8a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/finding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b458e72cb40bcad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/endpoint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "215f8a05d28bd001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/functionality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "453f39e986fae112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "986de3135946b770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp-example-host.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b62e601203f63931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp-example-applikation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5079042df818d02e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp-example-endpoint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ac32bbd545f38b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp-finding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f944d0c3e4b2834",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c47353248a44efb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -202,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/cure53-finding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/cure53-finding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/cure53-finding.md"
+              }
             }
           }
         ]
@@ -259,20 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5c8728edef72b52",
+  "active": "90f8717c55616e9c",
   "lastOpenFiles": [
-    "canvas",
-    "tmp-finding.md",
-    "tmp-example-host.md",
-    "tmp-example-functionality.md",
-    "tmp-example-endpoint.md",
-    "tmp-example-applikation.md",
-    "README.md",
-    "templates/finding.md",
     "templates/host.md",
-    "templates/functionality.md",
-    "templates/service.md",
+    "templates/finding.md",
     "templates/endpoint.md",
+    "templates/functionality.md",
+    "README.md",
+    "tmp-example-host.md",
+    "tmp-example-applikation.md",
+    "tmp-example-endpoint.md",
+    "tmp-finding.md",
+    "canvas",
+    "tmp-example-functionality.md",
+    "templates/service.md",
     "example host.md",
     "nodejs.md",
     "templates"

@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Headline checked": "checkbox",
+    "Finding reviewed (self)": "checkbox"
+  }
+}
