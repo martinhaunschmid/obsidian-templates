@@ -1,16 +1,9 @@
 ---
-cvss_score: TODO
-cvss_string: TODO
+verified: 
 severity: TODO
-notion_url: TODO
-status: #todo #verified #reported #nofinding
+(optional) cvss_score: TODO
+(optional )cvss_string: TODO
 ---
-> [!NOTE] How To
-> Frontmatter oben ausfüllen. Da die Findings wiederverwendbar in Notion dokumentiert werden, kann die Allgemeine Beschreibung / Empfehlungen hier ausgelassen werden, wenn ein Notion-Template existiert.
-
-# Metadaten
-- Host: `[[hostlink]]`
-- Service: `[[servicelink]]`
 # Allgemeine Beschreibung
 
 # Technischer Nachweis der Schwachstelle

@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Headline checked": "checkbox",
-    "Finding reviewed (self)": "checkbox"
+    "Finding reviewed (self)": "checkbox",
+    "verified": "checkbox"
   }
 }

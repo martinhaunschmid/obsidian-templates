@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/cure53-finding.md",
+                "file": "templates/finding.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/cure53-finding.md",
+                "file": "templates/finding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/cure53-finding.md",
+                "file": "templates/finding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/cure53-finding.md"
+                "file": "templates/finding.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "90f8717c55616e9c",
   "lastOpenFiles": [
+    "templates/cure53-finding.md",
     "templates/host.md",
     "templates/finding.md",
     "templates/endpoint.md",
